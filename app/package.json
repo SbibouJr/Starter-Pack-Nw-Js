@@ -1,0 +1,10 @@
+{
+    "name" : "Node-Webkit App",
+    "main" : "index.html",
+    "window": {
+        "width"  : 600,
+        "height" : 600,
+        "toolbar": true,
+        "frame"  : true
+    }
+}

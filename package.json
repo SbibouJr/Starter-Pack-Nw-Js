@@ -1,0 +1,27 @@
+{
+  "name": "starter-pack-nw-js",
+  "version": "0.0.1",
+  "description": "Native application startup package with Nw.js(Node-Webkit)",
+  "main": "app/index.html",
+  "scripts": {
+    "start": "./node_modules/.bin/nw ./app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SbibouJr/Starter-Pack-Nw-Js.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Node",
+    "Nw.js"
+  ],
+  "author": "SbibouJr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SbibouJr/Starter-Pack-Nw-Js/issues"
+  },
+  "homepage": "https://github.com/SbibouJr/Starter-Pack-Nw-Js#readme",
+  "dependencies": {
+    "nw": "^0.25.4"
+  }
+}
